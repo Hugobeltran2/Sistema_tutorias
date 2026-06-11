@@ -1,0 +1,1006 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "WFWireframe",
+			"_id": "AAAAAAGcscrhWhjQdKc=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Wireframe1",
+			"ownedElements": [
+				{
+					"_type": "WFWireframeDiagram",
+					"_id": "AAAAAAGcscrhWhjRSnM=",
+					"_parent": {
+						"$ref": "AAAAAAGcscrhWhjQdKc="
+					},
+					"name": "WFWireframeDiagram1",
+					"ownedViews": [
+						{
+							"_type": "WFPanelView",
+							"_id": "AAAAAAGcsc1j3xjzmbo=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"containedViews": [
+								{
+									"$ref": "AAAAAAGcsc/Iehk8WYo="
+								},
+								{
+									"$ref": "AAAAAAGcsc/pbBlHd2k="
+								},
+								{
+									"$ref": "AAAAAAGcsdEebRll0Tg="
+								},
+								{
+									"$ref": "AAAAAAGcsdMX7BlttJY="
+								},
+								{
+									"$ref": "AAAAAAGcsdO25BmIVus="
+								},
+								{
+									"$ref": "AAAAAAGcsdR1xRmrdQM="
+								},
+								{
+									"$ref": "AAAAAAGcsdUBgBnHsvo="
+								},
+								{
+									"$ref": "AAAAAAGcsdWrJhnWtd8="
+								},
+								{
+									"$ref": "AAAAAAGcsdiDxxorRNM="
+								},
+								{
+									"$ref": "AAAAAAGcsdkOPRo0TE4="
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 112,
+							"top": 192,
+							"width": 808,
+							"height": 440
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsc/Iehk8WYo=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc/Iehk69Fw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsc/Iehk9x78=",
+									"_parent": {
+										"$ref": "AAAAAAGcsc/Iehk8WYo="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 136,
+									"top": 208,
+									"width": 109.05908203125,
+									"height": 13,
+									"text": "ADMINISTRADOR",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 136,
+							"top": 208,
+							"width": 109.05908203125,
+							"height": 13,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsc/Iehk9x78="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsc/pbBlHd2k=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc/pbBlFFaQ="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsc/pbBlIqjk=",
+									"_parent": {
+										"$ref": "AAAAAAGcsc/pbBlHd2k="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 136,
+									"top": 224,
+									"width": 128,
+									"height": 13,
+									"text": "Asignacion de tutores",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 136,
+							"top": 224,
+							"width": 128,
+							"height": 39,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsc/pbBlIqjk="
+							}
+						},
+						{
+							"_type": "WFSeparatorView",
+							"_id": "AAAAAAGcsdEebRll0Tg=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdEebRljGeo="
+							},
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 136,
+							"top": 256,
+							"width": 744,
+							"height": 8
+						},
+						{
+							"_type": "WFPanelView",
+							"_id": "AAAAAAGcsdMX7BlttJY=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdMX6xlrxBQ="
+							},
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"containedViews": [
+								{
+									"$ref": "AAAAAAGcsc3GTxkBhSk="
+								},
+								{
+									"$ref": "AAAAAAGcsc9cixkkKV8="
+								},
+								{
+									"$ref": "AAAAAAGcsc+UWxkyG6M="
+								},
+								{
+									"$ref": "AAAAAAGcsc49/BkLUdc="
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 136,
+							"top": 272,
+							"width": 136,
+							"height": 280
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsc3GTxkBhSk=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc3GTxj/3O8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsc3GUBkCnDw=",
+									"_parent": {
+										"$ref": "AAAAAAGcsc3GTxkBhSk="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 144,
+									"top": 280,
+									"width": 160,
+									"height": 13,
+									"text": "tutores",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdMX7BlttJY="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 144,
+							"top": 280,
+							"width": 160,
+							"height": 32,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsc3GUBkCnDw="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsc9cixkkKV8=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc9cixki198="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsc9cixkljhA=",
+									"_parent": {
+										"$ref": "AAAAAAGcsc9cixkkKV8="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 144,
+									"top": 304,
+									"width": 49.13720703125,
+									"height": 13,
+									"text": "alumnos",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdMX7BlttJY="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 144,
+							"top": 304,
+							"width": 49.13720703125,
+							"height": 16,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsc9cixkljhA="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsc+UWxkyG6M=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc+UWhkw7eM="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsc+UWxkz39w=",
+									"_parent": {
+										"$ref": "AAAAAAGcsc+UWxkyG6M="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 144,
+									"top": 328,
+									"width": 72,
+									"height": 26,
+									"text": "cambio de tutor",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdMX7BlttJY="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 144,
+							"top": 328,
+							"width": 72,
+							"height": 39,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsc+UWxkz39w="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsc49/BkLUdc=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsc49/BkJEkc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsc49/BkMy6Y=",
+									"_parent": {
+										"$ref": "AAAAAAGcsc49/BkLUdc="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 144,
+									"top": 368,
+									"width": 88,
+									"height": 26,
+									"text": "asignacion de tutores",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdMX7BlttJY="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 144,
+							"top": 368,
+							"width": 88,
+							"height": 39,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsc49/BkMy6Y="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdO25BmIVus=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdO25BmGIZ0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdO25BmJ6I0=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdO25BmIVus="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 320,
+									"top": 272,
+									"width": 64.2890625,
+									"height": 13,
+									"text": "ALUMNOS",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 320,
+							"top": 272,
+							"width": 64.2890625,
+							"height": 13,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdO25BmJ6I0="
+							}
+						},
+						{
+							"_type": "WFPanelView",
+							"_id": "AAAAAAGcsdR1xRmrdQM=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdR1xRmpxWs="
+							},
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"containedViews": [
+								{
+									"$ref": "AAAAAAGcsdSKpRmyG4I="
+								},
+								{
+									"$ref": "AAAAAAGcsdSt+xm8Co8="
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 296,
+							"top": 288,
+							"width": 152,
+							"height": 248
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdSKpRmyG4I=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdSKpRmwxXc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdSKpRmz68Q=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdSKpRmyG4I="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 304,
+									"top": 296,
+									"width": 31.07177734375,
+									"height": 13,
+									"text": "Karla",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdR1xRmrdQM="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 304,
+							"top": 296,
+							"width": 31.07177734375,
+							"height": 13,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdSKpRmz68Q="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdSt+xm8Co8=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdSt+xm6Ra0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdSt+xm9cHg=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdSt+xm8Co8="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 304,
+									"top": 320,
+									"width": 31.07177734375,
+									"height": 13,
+									"text": "Juan",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdR1xRmrdQM="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 304,
+							"top": 320,
+							"width": 31.07177734375,
+							"height": 13,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdSt+xm9cHg="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdUBgBnHsvo=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdUBgBnFMQE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdUBgBnI3OE=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdUBgBnHsvo="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 488,
+									"top": 280,
+									"width": 184,
+									"height": 13,
+									"text": "DATOS DEL ALUMNO",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 488,
+							"top": 280,
+							"width": 184,
+							"height": 39,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdUBgBnI3OE="
+							}
+						},
+						{
+							"_type": "WFPanelView",
+							"_id": "AAAAAAGcsdWrJhnWtd8=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdWrJRnUwXs="
+							},
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"containedViews": [
+								{
+									"$ref": "AAAAAAGcsdXJcRnbwjY="
+								},
+								{
+									"$ref": "AAAAAAGcsdae1hn1BI4="
+								},
+								{
+									"$ref": "AAAAAAGcsda/KRn8CEU="
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 488,
+							"top": 312,
+							"width": 168,
+							"height": 216
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdXJcRnbwjY=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdXJcRnZFO8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdXJcRncChM=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdXJcRnbwjY="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 496,
+									"top": 368,
+									"width": 128,
+									"height": 26,
+									"text": "Karla Maria Lopez Cruz",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdWrJhnWtd8="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 496,
+							"top": 368,
+							"width": 128,
+							"height": 32,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdXJcRncChM="
+							}
+						},
+						{
+							"_type": "WFAvatarView",
+							"_id": "AAAAAAGcsdae1hn1BI4=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdae1hnzfrI="
+							},
+							"containerView": {
+								"$ref": "AAAAAAGcsdWrJhnWtd8="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 544,
+							"top": 328,
+							"width": 24,
+							"height": 24
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsda/KRn8CEU=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsda/KRn68fo="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsda/KRn9tVU=",
+									"_parent": {
+										"$ref": "AAAAAAGcsda/KRn8CEU="
+									},
+									"font": "Arial;9;0",
+									"parentStyle": true,
+									"left": 496,
+									"top": 408,
+									"width": 144,
+									"height": 18,
+									"text": "Estudios anteriores: Ingenieria en Sistema C.",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsdWrJhnWtd8="
+							},
+							"font": "Arial;9;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 496,
+							"top": 408,
+							"width": 144,
+							"height": 78,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsda/KRn9tVU="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdfwTBocZ/s=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdfwTBoascg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdfwTBoddKA=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdfwTBocZ/s="
+									},
+									"font": "Arial;9;0",
+									"parentStyle": true,
+									"left": 496,
+									"top": 448,
+									"width": 128,
+									"height": 9,
+									"text": "Nivel actual: Mestria",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;9;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 496,
+							"top": 448,
+							"width": 128,
+							"height": 39,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdfwTBoddKA="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGcsdiDxxorRNM=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdiDxhopeCA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdiDxxosVjs=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdiDxxorRNM="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 712,
+									"top": 304,
+									"width": 152,
+									"height": 13,
+									"text": "Tutores disponibles:",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 712,
+							"top": 304,
+							"width": 152,
+							"height": 16,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdiDxxosVjs="
+							}
+						},
+						{
+							"_type": "WFDropdownView",
+							"_id": "AAAAAAGcsdkOPRo0TE4=",
+							"_parent": {
+								"$ref": "AAAAAAGcscrhWhjRSnM="
+							},
+							"model": {
+								"$ref": "AAAAAAGcsdkOPRoyWpw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGcsdkOPho1Ik0=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdkOPRo0TE4="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 720,
+									"top": 342,
+									"width": 104,
+									"height": 13,
+									"text": "Oscar Chavez",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGcsc1j3xjzmbo="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 712,
+							"top": 336,
+							"width": 120,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGcsdkOPho1Ik0="
+							}
+						}
+					]
+				},
+				{
+					"_type": "WFPanel",
+					"_id": "AAAAAAGcsc1j3xjxnsM=",
+					"_parent": {
+						"$ref": "AAAAAAGcscrhWhjQdKc="
+					},
+					"name": "Panel1",
+					"ownedElements": [
+						{
+							"_type": "WFText",
+							"_id": "AAAAAAGcsc/Iehk69Fw=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "ADMINISTRADOR"
+						},
+						{
+							"_type": "WFText",
+							"_id": "AAAAAAGcsc/pbBlFFaQ=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Asignacion de tutores"
+						},
+						{
+							"_type": "WFSeparator",
+							"_id": "AAAAAAGcsdEebRljGeo=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Separator1"
+						},
+						{
+							"_type": "WFPanel",
+							"_id": "AAAAAAGcsdMX6xlrxBQ=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Panel1",
+							"ownedElements": [
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsc3GTxj/3O8=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdMX6xlrxBQ="
+									},
+									"name": "tutores"
+								},
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsc9cixki198=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdMX6xlrxBQ="
+									},
+									"name": "alumnos"
+								},
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsc+UWhkw7eM=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdMX6xlrxBQ="
+									},
+									"name": "cambio de tutor"
+								},
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsc49/BkJEkc=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdMX6xlrxBQ="
+									},
+									"name": "asignacion de tutores"
+								}
+							]
+						},
+						{
+							"_type": "WFText",
+							"_id": "AAAAAAGcsdO25BmGIZ0=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "ALUMNOS"
+						},
+						{
+							"_type": "WFPanel",
+							"_id": "AAAAAAGcsdR1xRmpxWs=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Panel2",
+							"ownedElements": [
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsdSKpRmwxXc=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdR1xRmpxWs="
+									},
+									"name": "Karla"
+								},
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsdSt+xm6Ra0=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdR1xRmpxWs="
+									},
+									"name": "Juan"
+								}
+							]
+						},
+						{
+							"_type": "WFText",
+							"_id": "AAAAAAGcsdUBgBnFMQE=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "DATOS DEL ALUMNO"
+						},
+						{
+							"_type": "WFPanel",
+							"_id": "AAAAAAGcsdWrJRnUwXs=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Panel3",
+							"ownedElements": [
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsdXJcRnZFO8=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdWrJRnUwXs="
+									},
+									"name": "Karla Maria Lopez Cruz"
+								},
+								{
+									"_type": "WFImage",
+									"_id": "AAAAAAGcsdZGcRnrTKs=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdWrJRnUwXs="
+									},
+									"name": "Image1"
+								},
+								{
+									"_type": "WFAvatar",
+									"_id": "AAAAAAGcsdae1hnzfrI=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdWrJRnUwXs="
+									},
+									"name": "Avatar1"
+								},
+								{
+									"_type": "WFText",
+									"_id": "AAAAAAGcsda/KRn68fo=",
+									"_parent": {
+										"$ref": "AAAAAAGcsdWrJRnUwXs="
+									},
+									"name": "Estudios anteriores: Ingenieria en Sistema C."
+								}
+							]
+						},
+						{
+							"_type": "WFText",
+							"_id": "AAAAAAGcsdiDxhopeCA=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Tutores disponibles:"
+						},
+						{
+							"_type": "WFDropdown",
+							"_id": "AAAAAAGcsdkOPRoyWpw=",
+							"_parent": {
+								"$ref": "AAAAAAGcsc1j3xjxnsM="
+							},
+							"name": "Oscar Chavez"
+						}
+					]
+				},
+				{
+					"_type": "WFText",
+					"_id": "AAAAAAGcsdfwTBoascg=",
+					"_parent": {
+						"$ref": "AAAAAAGcscrhWhjQdKc="
+					},
+					"name": "Nivel actual: Mestria"
+				}
+			]
+		}
+	],
+	"documentVersion": 1
+}
